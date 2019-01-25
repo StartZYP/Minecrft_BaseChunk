@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="BaseChunk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BaseChunk_jar</output-path>
+    <root id="root">
+      <element id="archive" name="BaseChunk.jar">
+        <element id="module-output" name="BaseChunk" />
+      </element>
+      <element id="library" level="project" name="craftbukkit-1.7.10-R0.1-20140808.005431-8" />
+    </root>
+  </artifact>
+</component>

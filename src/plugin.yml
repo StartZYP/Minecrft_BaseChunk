@@ -1,0 +1,5 @@
+name: ChunkBase
+main: com.qq44920040.minecraft.ChunkBase.ChunkMain
+version: 1.0
+author: yqt1001
+load: STARTUP
